@@ -1,2 +1,2 @@
 # mindbox_test
-Mindbox application test task
+Тестовое задание на должность Python-разработчика в компанию mindbox.
