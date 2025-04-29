@@ -1,4 +1,4 @@
-from area import Circle, Triangle, calculate_area, is_right_angled
+from area_task1 import Circle, Triangle, calculate_area, is_right_angled
 
 def main():
     print()
